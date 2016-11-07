@@ -1,0 +1,237 @@
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:10:33 2016] [notice] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Tue Oct 25 01:10:33 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Oct 25 01:10:33 2016] [notice] Parent: Created child process 11436
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:10:33 2016] [notice] Child 11436: Child process is running
+[Tue Oct 25 01:10:33 2016] [notice] Child 11436: Acquired the start mutex.
+[Tue Oct 25 01:10:33 2016] [notice] Child 11436: Starting 150 worker threads.
+[Tue Oct 25 01:10:33 2016] [notice] Child 11436: Starting thread to listen on port 80.
+[Tue Oct 25 01:10:33 2016] [notice] Child 11436: Starting thread to listen on port 80.
+[Tue Oct 25 01:15:23 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 25 01:15:23 2016] [notice] Child 11436: Exit event signaled. Child process is ending.
+[Tue Oct 25 01:15:24 2016] [notice] Child 11436: Released the start mutex
+[Tue Oct 25 01:15:25 2016] [notice] Child 11436: All worker threads have exited.
+[Tue Oct 25 01:15:25 2016] [notice] Child 11436: Child process is exiting
+[Tue Oct 25 01:15:25 2016] [notice] Parent: Child process exited successfully.
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:15:44 2016] [notice] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Tue Oct 25 01:15:44 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Oct 25 01:15:44 2016] [notice] Parent: Created child process 10652
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:15:44 2016] [notice] Child 10652: Child process is running
+[Tue Oct 25 01:15:44 2016] [notice] Child 10652: Acquired the start mutex.
+[Tue Oct 25 01:15:44 2016] [notice] Child 10652: Starting 150 worker threads.
+[Tue Oct 25 01:15:44 2016] [notice] Child 10652: Starting thread to listen on port 80.
+[Tue Oct 25 01:15:44 2016] [notice] Child 10652: Starting thread to listen on port 80.
+[Tue Oct 25 01:19:52 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 25 01:19:52 2016] [notice] Child 10652: Exit event signaled. Child process is ending.
+[Tue Oct 25 01:19:53 2016] [notice] Child 10652: Released the start mutex
+[Tue Oct 25 01:20:14 2016] [notice] Child 10652: All worker threads have exited.
+[Tue Oct 25 01:20:14 2016] [notice] Child 10652: Child process is exiting
+[Tue Oct 25 01:20:14 2016] [notice] Parent: Child process exited successfully.
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:22:25 2016] [notice] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Tue Oct 25 01:22:25 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Oct 25 01:22:25 2016] [notice] Parent: Created child process 11640
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Tue Oct 25 01:22:25 2016] [notice] Child 11640: Child process is running
+[Tue Oct 25 01:22:25 2016] [notice] Child 11640: Acquired the start mutex.
+[Tue Oct 25 01:22:25 2016] [notice] Child 11640: Starting 150 worker threads.
+[Tue Oct 25 01:22:25 2016] [notice] Child 11640: Starting thread to listen on port 80.
+[Tue Oct 25 01:22:25 2016] [notice] Child 11640: Starting thread to listen on port 80.
+[Tue Oct 25 01:23:00 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 25 01:23:00 2016] [notice] Child 11640: Exit event signaled. Child process is ending.
+[Tue Oct 25 01:23:01 2016] [notice] Child 11640: Released the start mutex
+[Tue Oct 25 01:23:30 2016] [notice] Parent: Forcing termination of child process 154
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Fri Oct 28 13:58:05 2016] [notice] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Fri Oct 28 13:58:05 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Fri Oct 28 13:58:05 2016] [notice] Parent: Created child process 17368
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host.example.com] does not exist
+Warning: DocumentRoot [C:/Apache2/docs/dummy-host2.example.com] does not exist
+[Fri Oct 28 13:58:05 2016] [notice] Child 17368: Child process is running
+[Fri Oct 28 13:58:05 2016] [notice] Child 17368: Acquired the start mutex.
+[Fri Oct 28 13:58:05 2016] [notice] Child 17368: Starting 150 worker threads.
+[Fri Oct 28 13:58:05 2016] [notice] Child 17368: Starting thread to listen on port 80.
+[Fri Oct 28 13:58:05 2016] [notice] Child 17368: Starting thread to listen on port 80.
+[Fri Oct 28 14:05:18 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 28 14:05:18 2016] [notice] Child 17368: Exit event signaled. Child process is ending.
+[Fri Oct 28 14:05:19 2016] [notice] Child 17368: Released the start mutex
+[Fri Oct 28 14:05:20 2016] [notice] Child 17368: All worker threads have exited.
+[Fri Oct 28 14:05:20 2016] [notice] Child 17368: Child process is exiting
+[Fri Oct 28 14:05:20 2016] [notice] Parent: Child process exited successfully.
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Fri Oct 28 15:12:43 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Fri Oct 28 15:12:43 2016] [notice] Parent: Created child process 336
+[Fri Oct 28 15:12:43 2016] [notice] Child 336: Child process is running
+[Fri Oct 28 15:12:43 2016] [notice] Child 336: Acquired the start mutex.
+[Fri Oct 28 15:12:43 2016] [notice] Child 336: Starting 150 worker threads.
+[Fri Oct 28 15:12:43 2016] [notice] Child 336: Starting thread to listen on port 80.
+[Fri Oct 28 15:12:43 2016] [notice] Child 336: Starting thread to listen on port 80.
+[Wed Nov 02 15:36:38 2016] [warn] pid file D:/Apache/Apache22/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 02 15:36:38 2016] [notice] Apache/2.2.31 (Win64) configured -- resuming normal operations
+[Wed Nov 02 15:36:38 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Wed Nov 02 15:36:38 2016] [notice] Parent: Created child process 1956
+[Wed Nov 02 15:36:38 2016] [notice] Child 1956: Child process is running
+[Wed Nov 02 15:36:38 2016] [notice] Child 1956: Acquired the start mutex.
+[Wed Nov 02 15:36:38 2016] [notice] Child 1956: Starting 150 worker threads.
+[Wed Nov 02 15:36:38 2016] [notice] Child 1956: Starting thread to listen on port 80.
+[Wed Nov 02 15:36:38 2016] [notice] Child 1956: Starting thread to listen on port 80.
+[Mon Nov 07 22:26:00 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 22:26:00 2016] [notice] Child 1956: Exit event signaled. Child process is ending.
+[Mon Nov 07 22:26:01 2016] [notice] Child 1956: Released the start mutex
+[Mon Nov 07 22:26:02 2016] [notice] Child 1956: All worker threads have exited.
+[Mon Nov 07 22:26:02 2016] [notice] Child 1956: Child process is exiting
+[Mon Nov 07 22:26:02 2016] [notice] Parent: Child process exited successfully.
+[Mon Nov 07 22:26:35 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:26:35 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:26:35 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Mon Nov 07 22:26:35 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Mon Nov 07 22:26:35 2016] [notice] Parent: Created child process 10448
+[Mon Nov 07 22:26:35 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:26:35 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:26:35 2016] [notice] Child 10448: Child process is running
+[Mon Nov 07 22:26:35 2016] [notice] Child 10448: Acquired the start mutex.
+[Mon Nov 07 22:26:35 2016] [notice] Child 10448: Starting 150 worker threads.
+[Mon Nov 07 22:26:35 2016] [notice] Child 10448: Starting thread to listen on port 80.
+[Mon Nov 07 22:26:35 2016] [notice] Child 10448: Starting thread to listen on port 80.
+[Mon Nov 07 22:36:43 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 07 22:36:43 2016] [notice] Child 10448: Exit event signaled. Child process is ending.
+[Mon Nov 07 22:36:44 2016] [notice] Child 10448: Released the start mutex
+[Mon Nov 07 22:36:45 2016] [notice] Child 10448: All worker threads have exited.
+[Mon Nov 07 22:36:45 2016] [notice] Child 10448: Child process is exiting
+[Mon Nov 07 22:36:45 2016] [notice] Parent: Child process exited successfully.
+[Mon Nov 07 22:36:47 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:36:47 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:36:47 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Mon Nov 07 22:36:47 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Mon Nov 07 22:36:47 2016] [notice] Parent: Created child process 6488
+[Mon Nov 07 22:36:47 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:36:47 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Mon Nov 07 22:36:47 2016] [notice] Child 6488: Child process is running
+[Mon Nov 07 22:36:47 2016] [notice] Child 6488: Acquired the start mutex.
+[Mon Nov 07 22:36:47 2016] [notice] Child 6488: Starting 150 worker threads.
+[Mon Nov 07 22:36:47 2016] [notice] Child 6488: Starting thread to listen on port 80.
+[Mon Nov 07 22:36:47 2016] [notice] Child 6488: Starting thread to listen on port 80.
+[Tue Nov 08 00:06:29 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 00:06:29 2016] [notice] Child 6488: Exit event signaled. Child process is ending.
+[Tue Nov 08 00:06:30 2016] [notice] Child 6488: Released the start mutex
+[Tue Nov 08 00:06:31 2016] [notice] Child 6488: All worker threads have exited.
+[Tue Nov 08 00:06:31 2016] [notice] Child 6488: Child process is exiting
+[Tue Nov 08 00:06:31 2016] [notice] Parent: Child process exited successfully.
+[Tue Nov 08 00:06:39 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:06:39 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:06:39 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Tue Nov 08 00:06:39 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Nov 08 00:06:39 2016] [notice] Parent: Created child process 16836
+[Tue Nov 08 00:06:40 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:06:40 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:06:40 2016] [notice] Child 16836: Child process is running
+[Tue Nov 08 00:06:40 2016] [notice] Child 16836: Acquired the start mutex.
+[Tue Nov 08 00:06:40 2016] [notice] Child 16836: Starting 150 worker threads.
+[Tue Nov 08 00:06:40 2016] [notice] Child 16836: Starting thread to listen on port 80.
+[Tue Nov 08 00:06:40 2016] [notice] Child 16836: Starting thread to listen on port 80.
+[Tue Nov 08 00:07:08 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 00:07:08 2016] [notice] Child 16836: Exit event signaled. Child process is ending.
+[Tue Nov 08 00:07:09 2016] [notice] Child 16836: Released the start mutex
+[Tue Nov 08 00:07:10 2016] [notice] Child 16836: All worker threads have exited.
+[Tue Nov 08 00:07:10 2016] [notice] Child 16836: Child process is exiting
+[Tue Nov 08 00:07:10 2016] [notice] Parent: Child process exited successfully.
+[Tue Nov 08 00:07:11 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:07:11 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:07:11 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Tue Nov 08 00:07:11 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Nov 08 00:07:11 2016] [notice] Parent: Created child process 2208
+[Tue Nov 08 00:07:11 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:07:11 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:07:11 2016] [notice] Child 2208: Child process is running
+[Tue Nov 08 00:07:11 2016] [notice] Child 2208: Acquired the start mutex.
+[Tue Nov 08 00:07:11 2016] [notice] Child 2208: Starting 150 worker threads.
+[Tue Nov 08 00:07:11 2016] [notice] Child 2208: Starting thread to listen on port 80.
+[Tue Nov 08 00:07:11 2016] [notice] Child 2208: Starting thread to listen on port 80.
+[Tue Nov 08 00:32:04 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 00:32:04 2016] [notice] Child 2208: Exit event signaled. Child process is ending.
+[Tue Nov 08 00:32:05 2016] [notice] Child 2208: Released the start mutex
+[Tue Nov 08 00:32:06 2016] [notice] Child 2208: All worker threads have exited.
+[Tue Nov 08 00:32:06 2016] [notice] Child 2208: Child process is exiting
+[Tue Nov 08 00:32:06 2016] [notice] Parent: Child process exited successfully.
+[Tue Nov 08 00:32:33 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:32:33 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:32:33 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Tue Nov 08 00:32:33 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Nov 08 00:32:33 2016] [notice] Parent: Created child process 9872
+[Tue Nov 08 00:32:33 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:32:33 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:32:33 2016] [notice] Child 9872: Child process is running
+[Tue Nov 08 00:32:33 2016] [notice] Child 9872: Acquired the start mutex.
+[Tue Nov 08 00:32:33 2016] [notice] Child 9872: Starting 150 worker threads.
+[Tue Nov 08 00:32:33 2016] [notice] Child 9872: Starting thread to listen on port 80.
+[Tue Nov 08 00:32:33 2016] [notice] Child 9872: Starting thread to listen on port 80.
+[Tue Nov 08 00:39:41 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 00:39:41 2016] [notice] Child 9872: Exit event signaled. Child process is ending.
+[Tue Nov 08 00:39:42 2016] [notice] Child 9872: Released the start mutex
+[Tue Nov 08 00:39:43 2016] [notice] Child 9872: All worker threads have exited.
+[Tue Nov 08 00:39:43 2016] [notice] Child 9872: Child process is exiting
+[Tue Nov 08 00:39:43 2016] [notice] Parent: Child process exited successfully.
+(OS 3)The system cannot find the path specified.  : httpd.exe: could not open error log file D:/Apache/Apache24/logs/error.log.
+Unable to open logs
+(OS 3)The system cannot find the path specified.  : httpd: could not open error log file D:/Apache/Apache24/logs/error.log.
+Unable to open logs
+[Tue Nov 08 00:55:22 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:55:22 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:55:22 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Tue Nov 08 00:55:22 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Nov 08 00:55:22 2016] [notice] Parent: Created child process 16676
+[Tue Nov 08 00:55:22 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:55:22 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 00:55:22 2016] [notice] Child 16676: Child process is running
+[Tue Nov 08 00:55:22 2016] [notice] Child 16676: Acquired the start mutex.
+[Tue Nov 08 00:55:22 2016] [notice] Child 16676: Starting 150 worker threads.
+[Tue Nov 08 00:55:22 2016] [notice] Child 16676: Starting thread to listen on port 80.
+[Tue Nov 08 00:55:22 2016] [notice] Child 16676: Starting thread to listen on port 80.
+[Tue Nov 08 01:00:53 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
+[Tue Nov 08 01:01:49 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
+[Tue Nov 08 01:01:53 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
+[Tue Nov 08 01:02:25 2016] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 08 01:02:25 2016] [notice] Child 16676: Exit event signaled. Child process is ending.
+[Tue Nov 08 01:02:26 2016] [notice] Child 16676: Released the start mutex
+[Tue Nov 08 01:02:27 2016] [notice] Child 16676: All worker threads have exited.
+[Tue Nov 08 01:02:27 2016] [notice] Child 16676: Child process is exiting
+[Tue Nov 08 01:02:27 2016] [notice] Parent: Child process exited successfully.
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 01:03:44 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 01:03:44 2016] [notice] Apache/2.2.31 (Win64) mod_jk/1.2.40 configured -- resuming normal operations
+[Tue Nov 08 01:03:44 2016] [notice] Server built: Jul 16 2015 11:53:54
+[Tue Nov 08 01:03:44 2016] [notice] Parent: Created child process 2016
+[Tue Nov 08 01:03:44 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 01:03:44 2016] [warn] No JkLogFile defined in httpd.conf. Using default D:/Apache/Apache22/logs/mod_jk.log
+[Tue Nov 08 01:03:44 2016] [notice] Child 2016: Child process is running
+[Tue Nov 08 01:03:44 2016] [notice] Child 2016: Acquired the start mutex.
+[Tue Nov 08 01:03:44 2016] [notice] Child 2016: Starting 150 worker threads.
+[Tue Nov 08 01:03:44 2016] [notice] Child 2016: Starting thread to listen on port 80.
+[Tue Nov 08 01:03:44 2016] [notice] Child 2016: Starting thread to listen on port 80.
+[Tue Nov 08 01:18:52 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
+[Tue Nov 08 01:18:57 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
+[Tue Nov 08 01:18:59 2016] [error] [client ::1] File does not exist: D:/Apache/Apache22/htdocs/www/sample-1.4.65
